@@ -1,0 +1,20 @@
+[
+    {
+        "title": "BUY GROCERIES",
+        "description": "fruits,veggies,bread,eggs,chocolates,snacks",
+        "category": "personal",
+        "completed": true
+    },
+    {
+        "title": "VOC PROJECT SUBMISSION",
+        "description": "to do list project",
+        "category": "work",
+        "completed": false
+    },
+    {
+        "title": "NETFLIX SERIES",
+        "description": "wednesday and stranger things",
+        "category": "personal",
+        "completed": false
+    }
+]
