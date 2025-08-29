@@ -25,8 +25,11 @@ python todo.py
 
 
 /todo_app
+
  ├── todo.py        # Main application logic
+ 
  ├── tasks.json     # Task storage
+ 
  └── README.md      # Documentation
 
 
